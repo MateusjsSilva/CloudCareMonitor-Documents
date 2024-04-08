@@ -6,6 +6,11 @@ Descrição breve ou slogan do projeto.
 
 Uma descrição mais detalhada do projeto, seus objetivos e funcionalidades.
 
+## Projetos
+
+- API do projeto: [ClouldCare Monitor API](https://github.com/MateusjsSilva/cloud_care_monitor_api.git)
+- Aplicativo Web MVC: [ClouldCare Monitor WEB](https://github.com/MateusjsSilva/cloud_care_monitor_web.git)
+
 ## Artigos de Referência
 
 Nesta seção, pode adicionar artigos de referência relacionados ao projeto. Isso pode incluir artigos técnicos, tutoriais, documentação oficial, etc.
