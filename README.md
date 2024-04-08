@@ -16,11 +16,7 @@ Nesta seção, pode adicionar artigos de referência relacionados ao projeto. Is
 
 ## Conteúdo Relevante
 
-Nesta seção, você pode adicionar links para conteúdos relevantes que complementam ou são úteis para o projeto. Isso pode incluir tutoriais, vídeos, livros, etc. Aqui estão alguns exemplos:
-
-- [Título do Conteúdo 1](link_para_conteudo_1): Descrição breve do conteúdo ou resumo.
-- [Título do Conteúdo 2](link_para_conteudo_2): Descrição breve do conteúdo ou resumo.
-- [Título do Conteúdo 3](link_para_conteudo_3): Descrição breve do conteúdo ou resumo.
+- [Notion](https://www.notion.so/Roteiro-de-estudo-pesquisa-e44f1880a2eb423eb32409834013fd7a?pvs=4): Conteudos que serão relevantes para a implementação do prototipo.
 
 ## Contribuição
 
