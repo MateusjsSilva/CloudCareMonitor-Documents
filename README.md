@@ -11,8 +11,6 @@ Uma descrição mais detalhada do projeto, seus objetivos e funcionalidades.
 Nesta seção, pode adicionar artigos de referência relacionados ao projeto. Isso pode incluir artigos técnicos, tutoriais, documentação oficial, etc.
 
 - [Título do Artigo 1](link_para_artigo_1): Descrição breve do conteúdo ou resumo.
-- [Título do Artigo 2](link_para_artigo_2): Descrição breve do conteúdo ou resumo.
-- [Título do Artigo 3](link_para_artigo_3): Descrição breve do conteúdo ou resumo.
 
 ## Conteúdo Relevante
 
