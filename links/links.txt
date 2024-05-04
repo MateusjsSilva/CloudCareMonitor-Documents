@@ -1,0 +1,2 @@
+image to C : https://github.com/bitbank2/image_to_c
+Bring GIFs to Life: Animating with Round Displays & ESP32: https://www.youtube.com/watch?v=mqSe_uMpxIs
